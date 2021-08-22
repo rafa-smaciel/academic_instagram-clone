@@ -28,6 +28,7 @@ This project was developed with the following technologies:
 
 ## ⚙ Settings
 - open with live server
+- @media
 <br>
 
 ---
